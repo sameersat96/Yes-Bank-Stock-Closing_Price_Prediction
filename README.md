@@ -26,7 +26,7 @@ Moving forward, we calculated the various performance metrics like MAE, MAPE, MS
 ![ss](https://user-images.githubusercontent.com/95841292/202707156-bfc3d550-c9b9-4827-8740-11da79258091.PNG)
 
 
-#Conclusion
+# Conclusion
 -  In EDA part we observed that
 1.  There is increase in trend of Yes Bank's stock's Close,Open,High,Low price till 2018 an then sudden decrease.
 2.  We observed that open vs close price graph concluded that after 2018 yes bank's stock hitted drastically.
