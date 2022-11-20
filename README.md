@@ -4,12 +4,12 @@ Yes Bank Limited is an Indian private sector bank headquartered in Mumbai, India
 ![image](https://user-images.githubusercontent.com/95841292/202706607-372b1391-c041-40a0-8528-c51be84f60c9.png)
 
 
-# Problem statement
+# 📋 Problem statement
 
 Yes Bank is a well-known bank in the Indian financial domain. Since 2018, it has been in the news because of the fraud case involving Rana Kapoor. Owing to this fact, it was interesting to see how that impacted the stock prices of the company and whether Time series models or any other predictive models can do justice to such situations. This dataset has monthly stock prices of the bank since its inception and includes closing, starting, highest, and lowest stock prices of every month. The main objective is to predict the stock’s closing price of the month.
 
 
-# Model used-
+# 📋 Model used-
 
 # Ridge regression
 # Lasso regression
@@ -21,12 +21,12 @@ Also, to check how other models perform, we performed Lasso regression and Ridge
 
 Moving forward, we calculated the various performance metrics like MAE, MAPE, MSE, RMSE, r2 scores for all the three models. Finally, we plotted the actual values vs predicted values of the closing price for all of them. Linear Regression has given the best results with lowest MAE, MSE, RMSE and MAPE scores. Ridge regression shrunk the parameters to reduce complexity and multicollinearity, but ended up affecting the evaluation metrics. Lasso regression did feature selection and ended up giving up worse results than ridge which again reflects the fact that each feature is important.
 
-# model performance
+# 📋 model performance
 
 ![ss](https://user-images.githubusercontent.com/95841292/202707156-bfc3d550-c9b9-4827-8740-11da79258091.PNG)
 
 
-# Conclusion
+# 📋 Conclusion
 -  In EDA part we observed that
 1.  There is increase in trend of Yes Bank's stock's Close,Open,High,Low price till 2018 an then sudden decrease.
 2.  We observed that open vs close price graph concluded that after 2018 yes bank's stock hitted drastically.
@@ -34,3 +34,22 @@ Moving forward, we calculated the various performance metrics like MAE, MAPE, MS
 4.  We get maximum accuracy of 99%
 5.  Linear regression and Ridge regression get almost same R squared valueWhereas Lasso model shows lowest R squared value and high MSE,RMSE,MAE,MAPE
 6.  Ridge regression shrunk the parameters to reduce complexity and multicollinearity but ended up affecting the evaluation metrics.
+
+
+# 📜 Credits
+
+Sameer Satpute | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
+
+Special thanks to Mahima Phalkey and AlmaBetter
+
+Contact me for Data Science Project Collaborations
+
+[![image](https://user-images.githubusercontent.com/95841292/202914376-d5a83f3d-110a-4476-896e-1da078b185dc.png)](https://www.linkedin.com/in/sameersatpute/)
+[![image](https://user-images.githubusercontent.com/95841292/202914715-787f6ae3-d9f6-491c-9cae-c717131ddebd.png)](https://github.com/sameersat96)
+[![image](https://user-images.githubusercontent.com/95841292/202914883-bce71634-6c2b-4305-8020-4b240cb76e41.png)](https://medium.com/@sameersatpute)
+![image](https://user-images.githubusercontent.com/95841292/202914940-5d5eba71-e45d-4e95-8dfe-65e45d255aec.png)
+
+
+
+
+# 📚 References
