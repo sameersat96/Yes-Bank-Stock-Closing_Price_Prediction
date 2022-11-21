@@ -9,11 +9,35 @@ Yes Bank Limited is an Indian private sector bank headquartered in Mumbai, India
 Yes Bank is a well-known bank in the Indian financial domain. Since 2018, it has been in the news because of the fraud case involving Rana Kapoor. Owing to this fact, it was interesting to see how that impacted the stock prices of the company and whether Time series models or any other predictive models can do justice to such situations. This dataset has monthly stock prices of the bank since its inception and includes closing, starting, highest, and lowest stock prices of every month. The main objective is to predict the stock’s closing price of the month.
 
 
+
+# 📋 Visualizations
+
+# 1) stock price over time 
+
+![newplot (1)](https://user-images.githubusercontent.com/95841292/202969391-4d329a04-d847-43f8-97cf-aff966241001.png)
+
+# 2) correlation 
+
+![image](https://user-images.githubusercontent.com/95841292/202969499-52f1114e-00b6-4478-a459-651dbb0aa5fa.png)
+
+
+
 # 📋 Model used-
 
 # Ridge regression
+
+![image](https://user-images.githubusercontent.com/95841292/202969659-64c6876a-615d-45d5-b644-11e15393fa11.png)
+
+
 # Lasso regression
+
+![image](https://user-images.githubusercontent.com/95841292/202969694-4a90d25c-d798-424e-8b37-4d80ab684b7d.png)
+
+
 # KNN regressor
+
+![image](https://user-images.githubusercontent.com/95841292/202969567-e3c30afe-9701-4681-b0d3-501f38873480.png)
+
 
 We performed Linear regression setting high, low and open as independent variables. Divided the dataset into training and testing datasets. We transformed the data using MinMax scaler which transforms each feature in a given range. We predicted the closing price of the test data using the Linear regression model we have trained.
 
