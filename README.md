@@ -53,3 +53,6 @@ Contact me for Data Science Project Collaborations
 
 
 # 📚 References
+
+1. https://trendlyne.com/research-reports/stock/1535/YESBANK/yes-bank-ltd/
+2. https://www.ijraset.com/research-paper/stock-market-prediction-using-ml
