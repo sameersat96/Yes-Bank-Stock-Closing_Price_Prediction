@@ -64,7 +64,7 @@ Moving forward, we calculated the various performance metrics like MAE, MAPE, MS
 
 Sameer Satpute | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
 
-Special thanks to Mahima Phalkey and AlmaBetter
+Special thanks AlmaBetter
 
 Contact me for Data Science Project Collaborations
 
